@@ -1,0 +1,6 @@
+{
+  "name": "UberPulse - Ride Booking & Flutter Mobility Engine",
+  "description": "Full-featured Uber mobility application featuring real-time map tracking, rider booking flow, driver partner dispatch HUD, surge pricing, and complete Flutter code export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
